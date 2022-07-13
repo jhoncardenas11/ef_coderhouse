@@ -1,3 +1,12 @@
+const checkLogin = () => {
+    const user = localStorage.getItem('email');
+    const pass = localStorage.getItem('pass');
+
+    if (!user && !pass) {
+       window.location.replace('/login/login.html');
+    }
+}
+
 const getData = async () => {
     let response = await fetch('../assets/data.json');
     let data = await response.json();
@@ -213,6 +222,7 @@ const orderVideoGameByPriceHigh = (videogames) => {
     });
 }
 
+checkLogin();
 displayGames();
 searchVideogame();
 orderVideoGameByPriceLow();
