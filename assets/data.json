@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "../assets/images/loz.jpg",
+        "name": "Leyend of zelda",
+        "price": 19
+    },
+    {
+        "id": 2,
+        "img": "../assets/images/gow.jpeg",
+        "name": "God of war",
+        "price": 7
+    },
+    {
+        "id": 3,
+        "img": "../assets/images/spiderman.jpg",
+        "name": "Spiderman",
+        "price": 5
+    },
+    {
+        "id": 4,
+        "img": "../assets/images/bt.jpg",
+        "name": "Battlefield",
+        "price": 19
+    },
+    {
+        "id": 5,
+        "img": "../assets/images/outlast.jpg",
+        "name": "Outlast",
+        "price": 15
+    },
+    {
+        "id": 8,
+        "img": "../assets/images/outlast2.jpg",
+        "name": "Outlast 2",
+        "price": 18
+    },
+    {
+        "id": 11,
+        "img": "../assets/images/fifa22.jpg",
+        "name": "Fifa 22",
+        "price": 20
+    },
+    {
+        "id": 23,
+        "img": "../assets/images/gta.jpg",
+        "name": "GTA V",
+        "price": 50
+    }
+]
