@@ -94,7 +94,7 @@ const searchVideogame = (videogames) => {
 
     btnSearch.addEventListener('click', async (e) => {
         e.preventDefault();
-        const value = formSearch[0].value;
+        const value = formSearch[0].value.toLowerCase();
 
         let videogames = await getData();
 
