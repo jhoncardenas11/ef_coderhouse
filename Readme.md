@@ -1,6 +1,6 @@
-## Iniciar el proyecto
+Url para ver el sitio
 
-inciar el archivo index.html
+https://gamestore-sable.vercel.app/home/home.html
 
 ##Login
 
